@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 gorelim
 Neyi gorelim
 sag� solu
+=======
+>>>>>>> parent of ac90ff1... değiştirme
