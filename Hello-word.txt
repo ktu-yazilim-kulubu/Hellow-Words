@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 gorelim
 Neyi gorelim
 sag� solu
 =======
 >>>>>>> parent of ac90ff1... değiştirme
+=======
+gorelim  
+>>>>>>> parent of 63f261d... yeni değişim
