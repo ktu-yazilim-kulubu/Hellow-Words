@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
-gorelim  
->>>>>>> parent of 63f261d... yeni değişim
+﻿degistirdik
